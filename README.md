@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Project MedicAid+ is a comprehensive website for all medical solutions. It is built with PHP, MySQL, Bootstrap, and Google Auth.
+Project MedicAid+ is a comprehensive website for all medical solutions. It is built with PHP, MySQL, Bootstrap, and Google Auth. This was my undergraduate Software Engineering Course Project.
 
 ## Features
 
